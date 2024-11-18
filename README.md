@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Francisco Sayago</a></h1>
-<h3 align="center">A passionate Frontend and Backend Web Developer from Argentina, Córdoba &#127470;&#127475;</h3>
+<h3 align="center">
+  A passionate Frontend and Backend Web Developer from Argentina, Córdoba
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="30" height="20">
+</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/francisco-sayago-503777260/" target="_blank">
