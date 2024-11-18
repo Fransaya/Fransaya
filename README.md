@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working in <a href="https://www.maserinformatica.com/index.php" target="blank">Maser Informatica</a>
 
-- 🌱 I’m currently Working on Web App with React.js and Node.js
+- 🌱 I’m currently Working on Web App with Angular.js and Node.js
 
 - 🤝 I’m available for freelancing.
 
