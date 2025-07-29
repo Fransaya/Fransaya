@@ -44,23 +44,34 @@ Desarrollador Full Stack con experiencia en **Node.js, Angular, React, Next.js, 
 
 ### 🏆 Proyectos Destacados
 
-- **WebApp de Gestión Comercial**  
-  Aplicación para control de inventarios, ventas y clientes. Integración con SQL/NoSQL y autenticación.  
-  [🔗 Demo / GitHub](https://github.com/Fransaya/tu-proyecto)
+- **Omnia – Plataforma Centralizada de Agentes y Automatizaciones IA**  
+  Landing page de mi proyecto actual, donde soy CEO/Founder.  
+  Desarrollada con **Next.js** y **Tailwind CSS**.  
+  Permite a empresas automatizar procesos y gestionar múltiples agentes inteligentes desde un solo entorno.  
+  [🔗 Ver Landing Page](https://omnia-ar.com/)
 
-- **E-commerce Modular**  
-  Plataforma escalable con Angular, Next.js y arquitectura MVC. Incluye mejoras de performance y administración.  
-  [🔗 Demo / GitHub](https://github.com/Fransaya/otro-proyecto)
+- **E-commerce Modular – ValuSport**  
+  Plataforma de e-commerce escalable para la gestión integral de ventas y productos.  
+  Implementada con **Next.js**, **Supabase** y arquitectura **MVC** para máxima eficiencia y fácil administración. Incluye mejoras de performance y automatización de operaciones clave.  
+  [🔗 Ver Web](https://valusport.vercel.app)
 
 ---
 
 ### 📈 Experiencia
 
-- **Desarrollador Full Stack** – Maser Informática (2023–Actualidad)  
-  Desarrollo y mantenimiento de plataformas de e-commerce y aplicaciones orientadas a negocios.
+- **Desarrollador Full-Stack - Freelancer**  
+  **CEO y Founder en SayaSoft y Omnia**  
+  Villa María, Córdoba | Enero 2024 - Actualidad
 
-- **Freelancer** – Sistemas a medida (2024–Actualidad)  
-  Soluciones personalizadas para empresas; desde el análisis hasta el despliegue usando tecnologías modernas.
+  - Desarrollo de soluciones web a medida para gestión de inventarios, ventas, clientes y sistemas de fidelización utilizando Node.js, Angular, PHP y bases de datos SQL/NoSQL.
+  - Responsable de todo el ciclo de vida del software: levantamiento de requerimientos, diseño de arquitectura, implementación, pruebas y despliegue en producción.
+  - Integración de sistemas para pequeñas empresas, mejorando el control operativo y automatizando procesos clave.
+
+- **Full Stack Developer - Maser Informática**  
+  Villa María, Córdoba | Octubre 2023 - Junio 2024
+  - Desarrollo y mantenimiento de plataformas de e-commerce con Angular, Node.js y PHP.
+  - Implementación de arquitecturas modulares basadas en MVC, mejorando la eficiencia y escalabilidad.
+  - Administración de bases de datos relacionales (SQL) y aseguramiento de integridad/alta disponibilidad.
 
 ---
 
