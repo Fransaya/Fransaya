@@ -1,87 +1,118 @@
-<h1 align="center">¡Hola! 👋 Soy <a href="https://www.linkedin.com/in/francisco-sayago-503777260/" target="_blank">Francisco Sayago</a></h1>
+<h1 align="center">Francisco Sayago</h1>
+
 <h3 align="center">
-  Full Stack Developer | Córdoba, Argentina
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina Flag" width="28" height="18">
+  Full Stack Developer · Backend & AI Agents
 </h3>
 
 <p align="center">
-  <a href="mailto:fransayago04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fransayago04@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/francisco-sayago-503777260/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Sayago-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Fransaya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Fransaya-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
+  Villa María, Córdoba, Argentina
 </p>
-
----
-
-### 💡 Sobre mí
-
-Desarrollador Full Stack con experiencia en **Node.js, Angular, React, Next.js, PHP, TypeScript**, y manejo de bases de datos tanto relacionales como NoSQL (**MySQL, PostgreSQL, MongoDB, Prisma**). Apasionado por el desarrollo web moderno, el aprendizaje continuo y aportar valor en equipos ágiles. Actualmente enfocado en crear aplicaciones robustas y escalables, participando activamente desde la concepción hasta la entrega.
-
----
-
-### 🚀 Tecnologías y Herramientas
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🏆 Proyectos Destacados
-
-- **Omnia – Plataforma Centralizada de Agentes y Automatizaciones IA**  
-  Landing page de mi proyecto actual, donde soy CEO/Founder.  
-  Desarrollada con **Next.js** y **Tailwind CSS**.  
-  Permite a empresas automatizar procesos y gestionar múltiples agentes inteligentes desde un solo entorno.  
-  [🔗 Ver Landing Page](https://omnia-ar.com/)
-
-- **E-commerce Modular – ValuSport**  
-  Plataforma de e-commerce escalable para la gestión integral de ventas y productos.  
-  Implementada con **Next.js**, **Supabase** y arquitectura **MVC** para máxima eficiencia y fácil administración. Incluye mejoras de performance y automatización de operaciones clave.  
-  [🔗 Ver Web](https://valusport.vercel.app)
-
----
-
-### 📈 Experiencia
-
-- **Desarrollador Full-Stack - Freelancer**  
-  **CEO y Founder en SayaSoft y Omnia**  
-  Villa María, Córdoba | Enero 2024 - Actualidad
-
-  - Desarrollo de soluciones web a medida para gestión de inventarios, ventas, clientes y sistemas de fidelización utilizando Node.js, Angular, PHP y bases de datos SQL/NoSQL.
-  - Responsable de todo el ciclo de vida del software: levantamiento de requerimientos, diseño de arquitectura, implementación, pruebas y despliegue en producción.
-  - Integración de sistemas para pequeñas empresas, mejorando el control operativo y automatizando procesos clave.
-
-- **Full Stack Developer - Maser Informática**  
-  Villa María, Córdoba | Octubre 2023 - Junio 2024
-  - Desarrollo y mantenimiento de plataformas de e-commerce con Angular, Node.js y PHP.
-  - Implementación de arquitecturas modulares basadas en MVC, mejorando la eficiencia y escalabilidad.
-  - Administración de bases de datos relacionales (SQL) y aseguramiento de integridad/alta disponibilidad.
-
----
-
-### 📫 Contacto
-
-¿Buscas sumar un desarrollador proactivo y con ganas de aprender a tu equipo?  
-¡Escríbeme por [mail](mailto:fransayago04@gmail.com) o [LinkedIn](https://www.linkedin.com/in/francisco-sayago-503777260/)!
-
----
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="220">
+  <a href="https://fransayago.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-245440?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/francisco-sayago/">
+    <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Sayago-0A66C2?style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:fransayago04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
+
+---
+
+### About me
+
+I'm a full stack developer focused on **backend development, web applications, and AI agents**.
+
+At **AIAutomatiza**, I work in a two-developer team, taking ownership of assigned projects from client requirements to deployment and maintenance. I write code, make architecture decisions, review changes, and handle production incidents.
+
+I also contribute to **SACIA**, the company's core CRM, working on features, database performance, and resource usage.
+
+Alongside my work, I build independent products through **DoctaInnova**.
+
+---
+
+### Technologies & tools
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+
+**AI & automation**
+
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-202020?style=for-the-badge)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-D4A27F?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Flowise](https://img.shields.io/badge/Flowise-2563EB?style=for-the-badge)
+
+**Deployment**
+
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-7C3AED?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### Selected work
+
+#### SACIA · CRM development & performance
+
+Contribute to the development and maintenance of AIAutomatiza's core CRM.
+
+- Optimized PostgreSQL queries, indexes, and database functions.
+- Improved frontend requests and realtime subscriptions.
+- Reworked background processes to reduce resource usage in Supabase.
+- Maintain features, investigate issues, and deploy improvements.
+
+#### AI agents · Customer workflows
+
+Develop and maintain agents for **customer support, appointment scheduling, and information analysis**.
+
+- Work with the OpenAI and Anthropic APIs.
+- Build automation workflows using n8n and Flowise.
+- Adapt implementations to client requirements and maintain them in production.
+
+#### DoctaInnova · Independent products
+
+Build personal software products, including a mobile application currently under development.
+
+Some projects and client work are private; the descriptions above cover the work I can share publicly.
+
+---
+
+### Experience
+
+**Full Stack Developer · Applications & AI Agents**  
+**AIAutomatiza · Remote**
+
+- Own assigned projects across requirements, development, deployment, and maintenance.
+- Work directly with clients to clarify needs and resolve technical issues.
+- Contribute to architecture decisions and code reviews.
+- Develop web applications, integrations, and AI agents.
+- Improve documentation and contribute to more organized development practices.
+
+**Full Stack Developer**  
+**Maser Informática · Córdoba, Argentina**
+
+- Developed and maintained e-commerce applications using Angular, Node.js, and PHP.
+- Worked on backend endpoints, integrations, and relational databases.
+- Contributed to application maintenance and improvements.
+
+---
+
+### Let's connect
+
+I'm interested in full stack and backend opportunities, particularly on teams building products with AI.
+
+[Portfolio](https://fransayago.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/francisco-sayago/) · [Email](mailto:fransayago.dev@gmail.com)
